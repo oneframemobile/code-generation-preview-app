@@ -86,7 +86,7 @@ class _ErrorViewState extends State<ErrorView> {
   }
 
   Widget get _lottieRobot => Lottie.asset(
-    "assets/error_robot.json",
+    "assets/robot.json",
     height: 300
   );
 }
